@@ -1,3 +1,4 @@
+list is stored in [] brackets
 List methods
 
 => append() 
