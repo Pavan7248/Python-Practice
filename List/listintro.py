@@ -1,3 +1,4 @@
+#lists can be changed
 list = [1, 2, 3, 4, "Pavan", "Navdeep" ]
 print(list)
 print(list[0])
